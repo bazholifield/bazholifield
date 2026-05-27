@@ -1,6 +1,6 @@
 # Hi! I'm Baz
 
-I'm a computational linguist interested using NLP with real life language use, such as translation, language learning, linguistic analysis, and the ways people actually acquire and produce language. I studied linguistics and computational linguistics at Northwestern, spent a year teaching English in the Basque Country, and I'm now based in Chicago.
+I'm a computational linguist interested using NLP with real life language use, such as translation, language learning, linguistic analysis, and the ways people actually acquire and produce language. I studied linguistics and computational linguistics at Northwestern, spent a year teaching English in the Basque Country of Spain, and I'm now based in Chicago.
 
 Most of my projects are related to EdTech and NLP. I enjoy building tools to help people learn languages, analyzing various linguistic devices, and studying the benefits and drawbacks of machine translation. I'm particularly drawn to studying tech related to low-resource and linguistically complex languages, aiming to aid language learning, make language tech accessible to more people, and understand how languages differ and affect discourse.
 
