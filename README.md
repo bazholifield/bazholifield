@@ -6,7 +6,7 @@ Most of my projects are related to EdTech and NLP. I enjoy building tools to hel
 
 ## What I'm working on
 
-- **TQE Register** — reference-free machine translation quality estimation with register-awareness, built on XLM-RoBERTa (private, in progress)
+- **TQE Register** - a reference-free machine translation quality estimation process with register awareness, built on XLM-RoBERTa (private, in progress)
 - Polishing and extending existing projects in language learning, error detection, and translation
 - A couple of smaller new projects using AI to aid language learning and analsyis
 
