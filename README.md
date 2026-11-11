@@ -1,38 +1,22 @@
-# Hi! I'm Baz
+# Hi, I'm Baz
 
-I'm a computational linguist interested using NLP with real life language use, such as translation, language learning, linguistic analysis, and the ways people actually acquire and produce language. I studied linguistics and computational linguistics at Northwestern, spent a year teaching English in the Basque Country of Spain, and I'm now based in Chicago.
+Computational linguist in Chicago. I studied linguistics and computational linguistics at Northwestern, then spent a year teaching English in Spain. I build NLP tools for hellping people learn and use language, mostly translation, language learning and evaluation. 
 
-Most of my projects are related to EdTech and NLP. I enjoy building tools to help people learn languages, analyzing various linguistic devices, and studying the benefits and drawbacks of machine translation. I'm particularly drawn to studying tech related to low-resource and linguistically complex languages, aiming to aid language learning, make language tech accessible to more people, and understand how languages differ and affect discourse.
+## Current projects
 
-## What I'm working on
+- **[TQE Register](https://github.com/bazholifield/tqe-register)** asks whether translation quality models notice unnatural English, for ESL learners. I built 158 Spanish to English pairs by hand. The best open model catches most of them, but it can't tell formal from casual.
+- **[FARIA](https://github.com/bazholifield/faria)** is a voice AI tutor that talks with you at your level and corrects you the way a good teacher would.
 
-- **TQE Register** - a reference-free machine translation quality estimation process with register awareness, built on XLM-RoBERTa (private, in progress)
-- Polishing and extending existing projects in language learning, error detection, and translation
-- A couple of smaller new projects using AI to aid language learning and analsyis
+## How I work
+
+I use Claude to streamline my work. I decide what gets built, design and annotate the data, and judge the results. Claude handles a lot of the code, so I can spend my time on the linguistics.
 
 ## Stack
 
-Python - PyTorch - TensorFlow - HuggingFace Transformers - scikit-learn - spaCy - NLTK - Flask - FastAPI - Flutter - SQL - R
+Python, PyTorch, Hugging Face Transformers, spaCy, scikit-learn, FastAPI, SQL, R
 
 ## Languages
 
-Fluent: English, Spanish — Working proficiency: French, German — Basic: Arabic, Basque, Hindi, Mandarin, Japanese
+English and Spanish fluently, French and German comfortably, and a little Arabic, Basque, Hindi, Mandarin and Japanese.
 
----
-
-📍 Chicago, IL &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/bazholifield)
-
-<!--
-**bazholifield/bazholifield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://linkedin.com/in/bazholifield)
