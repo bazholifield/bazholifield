@@ -1,6 +1,6 @@
 # Hi, I'm Baz
 
-Computational linguist in Chicago. I studied linguistics and computational linguistics at Northwestern, then spent a year teaching English in Spain. I build NLP tools for hellping people learn and use language, mostly translation, language learning and evaluation. 
+Computational linguist in Chicago. I studied linguistics and computational linguistics at Northwestern, then spent a year teaching English in Spain. I build NLP tools for helping people learn and use language, mostly translation, language learning and evaluation. 
 
 ## Current projects
 
